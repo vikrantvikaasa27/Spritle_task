@@ -68,11 +68,6 @@ python crew.py
 └── blog_post.md     # Generated content output
 ```
 
-## 💻 Usage
-```
-python crew.py
-```
-
 The system will:
 1. Research the topic using the research agent
 2. Generate content using the writer agent
